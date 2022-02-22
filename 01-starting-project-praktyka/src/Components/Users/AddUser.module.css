@@ -1,0 +1,6 @@
+.form {
+}
+.invalid input {
+  background-color: rgb(219, 66, 66);
+  pointer-events: none;
+}
